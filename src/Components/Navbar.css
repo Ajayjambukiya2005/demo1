@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+  text-decoration: none;
+  outline: none;
+  box-sizing: border-box;
+}
+.Navbar {
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: #f9f9ff;
+}
+.navbar_wrapper {
+  width: 95%;
+  margin: 0 auto;
+}
+.nav {
+  width: 100%;
+}
